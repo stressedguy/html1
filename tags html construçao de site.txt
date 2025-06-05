@@ -1,0 +1,7 @@
+<nav> para menu
+<header> para cabeçalho
+<main> para conteudo principal
+<section> para seçoes (assuntos dentro do site)
+<>
+<>
+
